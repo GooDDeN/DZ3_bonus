@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 1000px;
+	height: 1000px;			
+    background-color:  #E6E6E6;
+}    
+.all{
+	width: 960px;
+	height: 884px;
+	background-image: url(backgraund.png);
+}
+.logo{
+	margin: 70px 0px 0px 70px;
+}
+.contacts{
+	display: inline-block;
+	margin-left: 470px;
+}
+.india{	
+	margin-left: 70px;
+}
+.nepal{
+	margin-left: 10px;
+}
+.tibet{
+	margin-left: 10px;	
+}
+.bhutan{
+	margin: 50px 0px 0px 70px;
+}
+.shriLanka{
+	margin-left: 10px;
+}
+.maldives{
+	margin-left: 10px;
+}
+.text{
+	color: #939393;
+	margin-top: 150px;
+	text-align: center;
+}
